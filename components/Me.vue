@@ -5,7 +5,7 @@
     >
       <div class="flex flex-col items-start justify-center">
         <h1 class="m-auto mt-6 font-inter text-3xl font-bold slide-top lg:m-0">
-          Rizki Ramadhan I.M.
+          Rizky Ramadhan I.M.
         </h1>
         <h2
           class="m-auto font-inter text-lg font-medium text-center text-slate-500 slide-top lg:m-0"
