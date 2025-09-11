@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-5">
+  <div class="mt-5 work">
     <div class="pb-5 text-xl font-light font-inter text-slate-500/90">Work</div>
     <div class="grid grid-cols-1 gap-4">
       <div>

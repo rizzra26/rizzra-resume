@@ -26,4 +26,8 @@ li {
   .no-print {
     display: none;
   }
+
+  .work {
+    margin-top: 30rem;
+  }
 }

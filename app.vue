@@ -1,10 +1,10 @@
 <script setup lang="ts">
 useHead({
-  title: ref("Rizki R. | Resume"),
+  title: ref("Rizky R. | Resume"),
   meta: [
     {
       name: "description",
-      content: "Rizki's Resume",
+      content: "Rizky's Resume",
     },
   ],
 });
