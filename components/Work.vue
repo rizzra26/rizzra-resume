@@ -17,7 +17,7 @@
             </p>
           </div>
           <h4 class="text-xs font-medium font-inter text-slate-500/90">
-            Apr 2023 - Aug 2023
+            Apr 2023 - Sept 2023
           </h4>
         </div>
         <p class="mt-2 text-sm font-normal font-inter text-slate-700">

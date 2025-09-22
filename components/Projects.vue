@@ -55,7 +55,7 @@
               href="https://github.com/rizzra26/topup-store"
               target="_blank"
             >
-              Topup Store<span class="hidden sm:inline">,</span>
+              KyoraStore<span class="hidden sm:inline">,</span>
             </a>
             <p class="hidden ml-1 text-sm font-normal text-slate-700 sm:inline">
               Indie Project
