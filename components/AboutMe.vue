@@ -18,7 +18,7 @@ const paragraph = `Hi, my name is Rizky. I'm a Full-Stack Developer based in Jak
       class="flex gap-2 mt-5 text-sm transition-all duration-200 hover:text-slate-300 no-print text-slate-400"
     >
       <UIcon name="i-mdi-map-marker-outline" class="text-2xl"></UIcon>
-      North Jakarta - Jakarta, Indonesia
+      Jakarta, Indonesia
     </a>
   </div>
 </template>
