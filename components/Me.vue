@@ -10,7 +10,7 @@
         <h2
           class="m-auto font-inter text-lg font-medium text-center text-slate-500 slide-top lg:m-0"
         >
-          Full-Stack Developer
+          Software Engineer
         </h2>
       </div>
       <Socials />
