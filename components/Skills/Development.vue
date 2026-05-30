@@ -13,6 +13,10 @@
         <span>TypeScript</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>Go-lang</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>SQL</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>Bash</span>
       </li>
       <li class="space-x-2">
         <span>Vue (Nuxt)</span>
@@ -24,6 +28,8 @@
       <li class="space-x-2">
         <span>TailwindCSS</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>shadcn/ui</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>SASS</span>
       </li>
       <li class="space-x-2">
@@ -32,6 +38,12 @@
         <span>Express</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>Nest JS</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>Bun</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>Elysia.js</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>Go Fiber</span>
       </li>
       <li class="space-x-2">
         <span>MongoDB</span>
@@ -41,6 +53,10 @@
         <span>PostgreSQL</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>Prisma</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>Redis</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>Elasticsearch</span>
       </li>
       <li class="space-x-2">
         <span>Swagger</span>
@@ -59,7 +75,11 @@
       <li class="space-x-2">
         <span>GraphQL</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
-        <span>REST</span>
+        <span>REST API</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>gRPC</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>RabbitMQ</span>
       </li>
     </ul>
   </div>
