@@ -10,7 +10,7 @@
           <div class="flex flex-row items-baseline">
             <a
               class="font-medium border-b border-dashed cursor-pointer font-inter text-slate-800 border-slate-500/90"
-              href="https://www.fazztrack.com/"
+              href="https://www.instagram.com/fazztrack.id/"
               target="_blank"
             >
               Fazztrack<span class="hidden sm:inline">,</span>

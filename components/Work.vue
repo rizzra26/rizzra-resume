@@ -8,7 +8,7 @@
           <div class="flex flex-row items-baseline">
             <a
               class="font-medium border-b border-dashed cursor-pointer font-inter text-slate-800 border-slate-500/90"
-              href="https://course.oqurystudio.com/"
+              href="https://www.linkedin.com/posts/rizky-ramadhan-4545b440b_honored-to-be-part-of-lks-jakarta-utara-2026-ugcPost-7468027741083328512-2T5U/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGiPxIAB0jU_LgkXxzqZ_xLVVzAqjWjkKn8"
               target="_blank"
             >
               LKS JU 2026 IT Software Solution for Business<span
@@ -54,7 +54,7 @@
           <div class="flex flex-row items-baseline">
             <a
               class="font-medium border-b border-dashed cursor-pointer font-inter text-slate-800 border-slate-500/90"
-              href="https://www.smkn12jakarta.sch.id/"
+              href="https://www.linkedin.com/posts/rizky-ramadhan-4545b440b_the-best-way-to-grow-is-to-give-back-honored-ugcPost-7468029153825460225-VwAg/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGiPxIAB0jU_LgkXxzqZ_xLVVzAqjWjkKn8"
               target="_blank"
             >
               SMK Negeri 12 Jakarta<span class="hidden sm:inline">,</span>
