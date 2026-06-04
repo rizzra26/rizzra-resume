@@ -9,7 +9,7 @@
           <div class="flex flex-row items-baseline">
             <a
               class="font-medium border-b border-dashed cursor-pointer font-inter text-slate-800 border-slate-500/90"
-              href="https://github.com/rizzra26/discord-clone"
+              href="https://ngandikan.vercel.app"
               target="_blank"
             >
               Ngandikan - Team Chat Application<span class="hidden sm:inline"
@@ -21,7 +21,7 @@
             </p>
           </div>
           <h4 class="text-xs font-medium font-inter text-slate-500/90">
-            Sep 2023 - Present
+            Sep 2023
           </h4>
         </div>
         <p class="mt-2 text-sm font-normal font-inter text-slate-700">
@@ -62,7 +62,7 @@
             </p>
           </div>
           <h4 class="text-xs font-medium font-inter text-slate-500/90">
-            Sep 2023 - Present
+            Sep 2023
           </h4>
         </div>
         <p class="mt-2 text-sm font-normal font-inter text-slate-700">
