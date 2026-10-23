@@ -9,10 +9,10 @@
           <div class="flex flex-row items-baseline">
             <a
               class="font-medium border-b border-dashed cursor-pointer font-inter text-slate-800 border-slate-500/90"
-              href="https://ngandikan.vercel.app"
+              href="https://lairvox.vercel.app"
               target="_blank"
             >
-              Ngandikan - Team Chat Application<span class="hidden sm:inline"
+              Lairvox: Hang-out Community App<span class="hidden sm:inline"
                 >,</span
               >
             </a>
@@ -35,15 +35,15 @@
         >
           Skills:
           <span class="inline-block font-normal text-slate-700">
-            TypeScript
-            <img src="~/assets/icons/dot.svg" class="inline w-5" />
-            Socket.io
-            <img src="~/assets/icons/dot.svg" class="inline w-5" />
-            Next
-            <img src="~/assets/icons/dot.svg" class="inline w-5" />
-            MySQL
+            Next JS
             <img src="~/assets/icons/dot.svg" class="inline w-5" />
             Prisma
+            <img src="~/assets/icons/dot.svg" class="inline w-5" />
+            WebSocket
+            <img src="~/assets/icons/dot.svg" class="inline w-5" />
+            PostgreSQL
+            <img src="~/assets/icons/dot.svg" class="inline w-5" />
+            LiveKit
           </span>
         </p>
       </div>

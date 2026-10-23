@@ -15,8 +15,6 @@
         <span>Go-lang</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>SQL</span>
-        <span class="font-light text-[#93c5fd] font-inter">/</span>
-        <span>Bash</span>
       </li>
       <li class="space-x-2">
         <span>Vue (Nuxt)</span>
@@ -39,8 +37,6 @@
         <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>Nest JS</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
-        <span>Bun</span>
-        <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>Elysia.js</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>Go Fiber</span>
@@ -55,8 +51,6 @@
         <span>Prisma</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>Redis</span>
-        <span class="font-light text-[#93c5fd] font-inter">/</span>
-        <span>Elasticsearch</span>
       </li>
       <li class="space-x-2">
         <span>Swagger</span>
@@ -80,6 +74,17 @@
         <span>gRPC</span>
         <span class="font-light text-[#93c5fd] font-inter">/</span>
         <span>RabbitMQ</span>
+      </li>
+      <li class="space-x-2">
+        <span>Claude Code</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>Hermes</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>9Router</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>MCP</span>
+        <span class="font-light text-[#93c5fd] font-inter">/</span>
+        <span>Skills</span>
       </li>
     </ul>
   </div>
