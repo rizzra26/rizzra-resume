@@ -52,10 +52,12 @@
           <div class="flex flex-row items-baseline">
             <a
               class="font-medium border-b border-dashed cursor-pointer font-inter text-slate-800 border-slate-500/90"
-              href="https://github.com/rizzra26/topup-store"
+              href="https://github.com/rizzra26/kyora-store"
               target="_blank"
             >
-              KyoraStore<span class="hidden sm:inline">,</span>
+              Kyora Store: All Your Gaming Needs<span class="hidden sm:inline"
+                >,</span
+              >
             </a>
             <p class="hidden ml-1 text-sm font-normal text-slate-700 sm:inline">
               Indie Project
@@ -66,8 +68,10 @@
           </h4>
         </div>
         <p class="mt-2 text-sm font-normal font-inter text-slate-700">
-          Games Topup Store Website built using MERN Stack by implementing
-          Atomic Design with Story Book
+          Kyora Store is a modern game top-up platform built with Next.js and
+          structured using Atomic Design. Its UI components are developed and
+          documented in Storybook, resulting in a consistent, reusable, and
+          scalable front end for a fast and smooth top-up experience.
         </p>
         <p
           class="inline-block mt-2 text-sm font-medium font-inter text-slate-700"
